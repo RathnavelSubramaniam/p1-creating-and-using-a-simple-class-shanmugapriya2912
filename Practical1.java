@@ -17,7 +17,7 @@ public Person(String firstName, String lastName, int age)
 }
 public String getFullName()
 {
-    return firstName + "" + lastName;
+    return firstName + " " + lastName;
 }
 }
 public class Practical1
